@@ -1,2 +1,0 @@
-# Raid
-Raid iOS game.

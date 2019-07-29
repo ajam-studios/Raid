@@ -11,8 +11,8 @@ import SpriteKit
 import GameplayKit
 
 class GameViewController: UIViewController {
-
-   /* override func viewDidLoad() {
+/*
+    override func viewDidLoad() {
         super.viewDidLoad()
         
         // Load 'GameScene.sks' as a GKScene. This provides gameplay related content
